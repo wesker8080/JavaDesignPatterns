@@ -13,6 +13,8 @@
  *
  * 工厂方法模式---------------->工厂方法模式 {@link com.wesker.factory.Shape}
  *
- * 享元模式-------------------->享元模式 {}
+ * 享元模式-------------------->享元模式 {@link com.wesker.flyweight.FlyweightFactory}
+ *
+ * 泛型------------------------>extends和super和区别{@link com.wesker.generic.Animal}
  */
 package com.wesker;
