@@ -15,6 +15,10 @@
  *
  * 享元模式-------------------->享元模式 {@link com.wesker.flyweight.FlyweightFactory}
  *
+ * 策略模式-------------------->策略模式 {@link com.wesker.strategy.Strategy}
+ *
+ * 适配器模式-------------------->适配器模式 {@link com.wesker.adapter.Handler}
+ *
  * 泛型------------------------>extends和super和区别{@link com.wesker.generic.Animal}
  */
 package com.wesker;

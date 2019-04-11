@@ -9,6 +9,8 @@
  *
  * 享元模式-------------------->享元模式 {@link com.wesker.flyweight.FlyweightTest}
  *
+ * 策略模式-------------------->策略模式 {@link com.wesker.strategy.StrategyTest}
+ *
  * 泛型------------------------>extends和super和区别{@link com.wesker.generic.Animal}
  */
 package com.wesker;
