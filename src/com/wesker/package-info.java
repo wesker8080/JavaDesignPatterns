@@ -20,5 +20,7 @@
  * 适配器模式-------------------->适配器模式 {@link com.wesker.adapter.Handler}
  *
  * 泛型------------------------>extends和super和区别{@link com.wesker.generic.Animal}
+ *
+ * 枚举------------------------>枚举例子，用于替代常量{@link com.wesker.enumSample.VoiceEnum}
  */
 package com.wesker;
